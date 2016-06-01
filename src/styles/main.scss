@@ -1,0 +1,18 @@
+body{
+    background: pink;
+}
+li{
+    line-height: 120px;
+}
+
+
+@import "share";
+
+
+.div{
+    transform: scale(1.5);
+    box-shadow: 1px 1px 3px red;
+}
+.test{
+    @include share-sprites(btn1);
+}
