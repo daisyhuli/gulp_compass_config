@@ -23,5 +23,6 @@ images_dir = "src/images"
 
 Load config without config.rb (项目不必有config配置文件,自己配置)
 
+by 1th.Junßß
 
 
